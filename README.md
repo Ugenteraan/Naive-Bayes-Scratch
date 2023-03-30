@@ -1,7 +1,9 @@
 # Simple Naive Bayes Classifier from Scratch
 
 ## Introduction
-The code provided in this repository is purely for learning purposes only. The implementation is made from the idea of Bayes Theorem and Naive Bayes. If you wish to know the derivation of Bayes Theorem and Naive Bayes, visit https://www.kaggle.com/code/ugenteraan/a-study-on-simple-naive-bayes-classifier.
+The code provided in this repository is purely for learning purposes only. The implementation is made from the idea of Bayes Theorem and Naive Bayes. 
+
+If you wish to know the derivation of Naive Bayes and how it was translated to the code in this repository, visit https://www.kaggle.com/code/ugenteraan/a-study-on-simple-naive-bayes-classifier.
 
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*CnoTGGO7XeUpUMeXDrIfvA.png" width="500" height="300">
