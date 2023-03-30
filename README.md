@@ -12,5 +12,7 @@ This experiment was done on the Mushroom Dataset from UCI Machine Learning Repos
 
 The Simple Naive Bayes Classifier achieved an accuracy of 99.7% in the test data. 30% of the data was randomly sampled to be the test data. 
 
+## References
 
+1) https://www.researchgate.net/profile/Daniel-Berrar/publication/324933572_Bayes'_Theorem_and_Naive_Bayes_Classifier/links/5d837aba92851ceb79143b04/Bayes-Theorem-and-Naive-Bayes-Classifier.pdf
 
