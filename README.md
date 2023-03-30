@@ -12,7 +12,7 @@ Image Source: https://towardsdatascience.com/bayes-rule-with-a-simple-and-practi
 
 ## Dataset
 
-This experiment was done on the Mushroom Dataset from UCI Machine Learning Repository. https://www.kaggle.com/datasets/uciml/mushroom-classification. The main task here is to classify the mushrooms as poisonous ('p') or edible ('e') based on the given features about the mushroom.
+This experiment was done on the Mushroom Dataset from UCI Machine Learning Repository (https://www.kaggle.com/datasets/uciml/mushroom-classification). The main task here is to classify the mushrooms as poisonous ('p') or edible ('e') based on the given features about the mushroom.
 
 ## Result & Discussion
 
