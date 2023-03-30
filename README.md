@@ -4,7 +4,7 @@
 The code provided in this repository is purely for learning purposes only. The implementation is made from the idea of Bayes Theorem and Naive Bayes. If you wish to know the derivation of Bayes Theorem and Naive Bayes, visit https://www.kaggle.com/code/ugenteraan/a-study-on-simple-naive-bayes-classifier.
 
 
-<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fbayes-rule-with-a-simple-and-practical-example-2bce3d0f4ad0&psig=AOvVaw1zgnxZjXU5x6C6r6Bn2Qio&ust=1680230780377000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjNqcjRgv4CFQAAAAAdAAAAABAE)"  width="300" height="300">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*CnoTGGO7XeUpUMeXDrIfvA.png" width="300" height="300">
 Image Source: https://towardsdatascience.com/bayes-rule-with-a-simple-and-practical-example-2bce3d0f4ad0
 
 
