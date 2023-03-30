@@ -14,7 +14,7 @@ Image Source: https://towardsdatascience.com/bayes-rule-with-a-simple-and-practi
 
 This experiment was done on the Mushroom Dataset from UCI Machine Learning Repository (https://www.kaggle.com/datasets/uciml/mushroom-classification). The main task here is to classify the mushrooms as poisonous ('p') or edible ('e') based on the given features about the mushroom.
 
-## Result & Discussion
+## Result
 
 The Simple Naive Bayes Classifier achieved an accuracy of 99.7% in the test data. 30% of the data was randomly sampled to be the test data. 
 
