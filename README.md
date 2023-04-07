@@ -1,7 +1,7 @@
 # Naive Bayes Classifier from Scratch
 
 ## Introduction
-This repo contains the implementations of Simple Naive Bayes Classifier and Gaussian Naive Bayes Classifier. The implementations are for understanding how the algorithm works in detail only. Not for production use. 
+This repo contains the implementations of Simple Naive Bayes Classifier and Gaussian Naive Bayes Classifier. The implementations are for understanding how the algorithm works in detail. Not for production use. 
 
 The derivation of the algorithms are in my Kaggle Notebook here https://www.kaggle.com/code/ugenteraan/a-study-on-simple-naive-bayes-classifier. Do check it out!
 
