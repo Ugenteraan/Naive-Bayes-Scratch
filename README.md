@@ -1,22 +1,9 @@
-# Simple Naive Bayes Classifier from Scratch
+# Naive Bayes Classifier from Scratch
 
 ## Introduction
-The code provided in this repository is purely for learning purposes only. The implementation is made from the idea of Bayes Theorem and Naive Bayes. 
+This repo contains the implementations of Simple Naive Bayes Classifier and Gaussian Naive Bayes Classifier. The implementations are for understanding how the algorithm works in detail only. Not for production use. 
 
-If you wish to know the derivation of Naive Bayes and how it was translated to the code in this repository, visit https://www.kaggle.com/code/ugenteraan/a-study-on-simple-naive-bayes-classifier.
-
-
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*CnoTGGO7XeUpUMeXDrIfvA.png" width="500" height="300">
-Image Source: https://towardsdatascience.com/bayes-rule-with-a-simple-and-practical-example-2bce3d0f4ad0
-
-
-## Dataset
-
-This experiment was done on the Mushroom Dataset from UCI Machine Learning Repository (https://www.kaggle.com/datasets/uciml/mushroom-classification). The main task here is to classify the mushrooms as poisonous ('p') or edible ('e') based on the given features about the mushroom.
-
-## Result
-
-The Simple Naive Bayes Classifier achieved an accuracy of 99.7% in the test data. 30% of the data was randomly sampled to be the test data. 
+The derivation of the algorithms are in my Kaggle Notebook here https://www.kaggle.com/code/ugenteraan/a-study-on-simple-naive-bayes-classifier. Do check it out!
 
 ## References
 
